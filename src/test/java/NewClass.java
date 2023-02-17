@@ -11,6 +11,8 @@ public class NewClass {
 		
 		
 		System.out.println("Vijay gadu");
+		
+		System.out.println("All are waste fellows");
 
 	}
 
