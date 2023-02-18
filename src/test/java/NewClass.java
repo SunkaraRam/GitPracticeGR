@@ -13,6 +13,8 @@ public class NewClass {
 
 		System.out.println("Hareesh");
 		System.out.println("Vijay gadu");
+		
+		System.out.println("All are good fellows");
 
 	}
 
