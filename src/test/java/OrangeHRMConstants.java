@@ -33,7 +33,7 @@ public class OrangeHRMConstants {
 		@AfterSuite
 		public static void closeApp() {
 			
-			driver.close();
+			//driver.close();
 			
 		}
 		
