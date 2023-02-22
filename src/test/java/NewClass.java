@@ -24,7 +24,7 @@ public class NewClass {
 		System.out.println("This is method one from Gitpractice");
 	}
 
-	public  static void method1() {
+	public  static void method2() {
 		
 		System.out.println("This is method one from GitpracticeGR P2");
 	}
